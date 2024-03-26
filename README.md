@@ -18,10 +18,12 @@ Administrators have the ability to delete notices when they are no longer releva
 
 CuCollege integrates with Firebase Realtime Database to store and manage notice data. This allows for real-time synchronization of notices across multiple devices and ensures data consistency and reliability.
 
-##   SCREENSHOTS 
-![Screenshot_20240326_134602](https://github.com/mohdkaif2304/CuCollege/assets/118160035/e4e4f075-1e99-4d7b-bc9a-c4bc2346415c)
-![Screenshot_20240326_134440](https://github.com/mohdkaif2304/CuCollege/assets/118160035/7c515855-4e0b-449a-b377-6cd5a5206a19)
-![Screenshot_20240326_134629](https://github.com/mohdkaif2304/CuCollege/assets/118160035/1fea759e-6b10-46b2-90c2-8ce9ef892277)
+##  SCREENSHOTS 
+![Screenshot 2024-03-26 140223](https://github.com/mohdkaif2304/CuCollege/assets/118160035/abd867fb-5b96-4453-9757-1c126aeee82e)
+![Screenshot_20240326_134440](https://github.com/mohdkaif2304/CuCollege/assets/118160035/068bddb5-9d85-4f37-95d4-4c686b780696)
+![Screenshot 2024-03-26 140342](https://github.com/mohdkaif2304/CuCollege/assets/118160035/17ebbfd9-d876-4eb0-805d-350567fd4eaf)
+![Screenshot 2024-03-26 140322](https://github.com/mohdkaif2304/CuCollege/assets/118160035/6822c661-1d1f-4780-8ca2-4970ce58d6c0)
+
 
 ## Libraries Used
 
