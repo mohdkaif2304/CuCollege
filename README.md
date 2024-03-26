@@ -20,7 +20,6 @@ CuCollege integrates with Firebase Realtime Database to store and manage notice 
 
 ##  SCREENSHOTS 
 ![Screenshot 2024-03-26 140223](https://github.com/mohdkaif2304/CuCollege/assets/118160035/abd867fb-5b96-4453-9757-1c126aeee82e)
-![Screenshot_20240326_134440](https://github.com/mohdkaif2304/CuCollege/assets/118160035/068bddb5-9d85-4f37-95d4-4c686b780696)
 ![Screenshot 2024-03-26 140342](https://github.com/mohdkaif2304/CuCollege/assets/118160035/17ebbfd9-d876-4eb0-805d-350567fd4eaf)
 ![Screenshot 2024-03-26 140322](https://github.com/mohdkaif2304/CuCollege/assets/118160035/6822c661-1d1f-4780-8ca2-4970ce58d6c0)
 
